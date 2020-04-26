@@ -14,5 +14,4 @@ fun main() {
     val readMore = Button("Read more")
     content.addView(readMore)
 
-
 }

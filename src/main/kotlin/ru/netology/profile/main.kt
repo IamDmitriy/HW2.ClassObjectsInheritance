@@ -3,7 +3,7 @@ package ru.netology.profile
 import ru.netology.profile.model.Profile
 
 fun main() {
-    var myProfile = Profile(
+    val myProfile = Profile(
         1,
         "IamDmitriy",
         "Дмитрий",
